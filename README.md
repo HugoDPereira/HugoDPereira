@@ -12,7 +12,7 @@
 
 ## ⚙️ &nbsp;GitHub Analytics
 
-<p align="center">
+<p align="left">
 <img width="380em" src="https://github-readme-stats.vercel.app/api?username=HugoDPereira&show_icons=true&theme=react" alt="HugoDPereira's stats"/>
 <img width="380em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HugoDPereira&layout=compact&theme=react" alt="HugoDPereira's most languages"/>
 </p>
