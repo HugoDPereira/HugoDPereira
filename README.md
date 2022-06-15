@@ -1,16 +1,21 @@
-### Hi there 👋
+## Hi, I'm Hugo ! 👋
 
-<!--
-**HugoDPereira/HugoDPereira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I am currently working as a Telecommunications Technician
 
-Here are some ideas to get you started:
+- 🌱 I’m currently learning HTML, CSS e JavaScript
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📫 How to reach me [Hugo](https://www.linkedin.com/in/hugo-d-pereira/)
+
+- 😄 Pronouns I You We
+
+- ⚡ Fun fact Perfectionist 😜 !
+
+## ⚙️ &nbsp;GitHub Analytics
+
+<p align="center">
+<img width="380em" src="https://github-readme-stats.vercel.app/api?username=HugoDPereira&show_icons=true&theme=react" alt="HugoDPereira's stats"/>
+<img width="380em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HugoDPereira&layout=compact&theme=react" alt="HugoDPereira's most languages"/>
+</p>
+
+
+![Snake animation](https://github.com/HugoDPereira/HugoDPereira/blob/output/github-contribution-grid-snake.svg)
