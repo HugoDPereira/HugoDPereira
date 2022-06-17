@@ -17,4 +17,4 @@
 <img width="380em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HugoDPereira&layout=compact&theme=react" alt="HugoDPereira's most languages"/>
 </p>
 
-
+![Snake animation](https://github.com/HugoDPereira/HugoDPereira/blob/output/github-contribution-grid-snake.svg)
