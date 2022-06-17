@@ -18,4 +18,3 @@
 </p>
 
 
-![Snake animation](https://github.com/HugoDPereira/HugoDPereira/blob/output/github-contribution-grid-snake.svg)
